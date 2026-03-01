@@ -1,6 +1,6 @@
 # Employee Performance Tracker (Python + SQLite)
 
-## 📌 Project Overview
+# 📌 Project Overview
 This is a CLI-based application developed using Python and SQLite to store, retrieve and manage employee performance records.
 
 ## 🚀 Features
